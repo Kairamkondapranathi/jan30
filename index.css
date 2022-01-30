@@ -1,0 +1,22 @@
+h1{
+    text-align:center;
+    color:violet;
+}
+
+
+table{
+   position: relative;
+   /* left: 25rem; */
+    background-color: wheat;
+   
+}
+
+table  td{
+    border:1px solid;
+    padding: 10px;
+}
+
+table tr{
+    border:1px solid;
+    padding: 10px;
+}
